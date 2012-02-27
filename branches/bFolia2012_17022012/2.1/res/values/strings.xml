@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="hello">Hello World, MainActivity!</string>
-    <string name="app_name">Folia do Papangu 2012</string>
-
+	<string name="app_name">Folia do Papangu 2012</string>
+	
+	<!-- Main -->
+	<string name="evento">Evento</string>
+    <string name="programacao">Programação</string>
+    <string name="turismo">Turismo</string>
+    <string name="interatividade">Interatividade</string>
+	
+    <!-- Evento -->
+    <string name="historia">História</string>
+    <string name="historiaContent">
+        No final do século XIX e início do século XX surgiram os primeiros papangus, e se tornou marco o ano de 1905, com a criação das primeiras máscaras.
+        As máscaras eram rudimentares, feitas com papel de embrulhar charque e papelão.
+        O açafrão e as folhas de fava eram utilizadas para dar pigmentação e o carvão para controlar as feições dos mascarados.
+        Passado o tempo surgiram máscaras feitas de coité, coloridas com um pó preto e alvaiade (tinta branca utilizada em sapatos).
+        O papangu tradicional pode ser reconhecido pelas suas famosas caftas (tecido costurado nas laterais e com pequenos orifícios nos olhos, boca e nariz).
+        Os artesãos e carnavalescos foram aperfeiçoando as máscaras e vestimentas, ficando a confecção do figurino característico do papangu por conta da criatividade e irreverência do folião.
+        A fundação primordial da cultura bezerrense é fazer com o que o Carnaval da Folia do Papangu possa enaltecer o município através do Papangu, preservando e resgatando as tradições da nossa terra.
+    </string>
+    <string name="nascimento">Assim nasceu o Papangu!</string>
+    <string name="nascimentoContent">
+        Durante muito tempo o município de Bezerros (PE) se apoderou de registros inacabados acerca da história dos papangus. Eram evidências, lembranças de carnavalescos e relatos sem precisão e respaldo histórico, fator que ocasionou o cultivo de uma cultura fragmentada e de uma versão inconclusa.
+		Encontra-se, nos registros da cidade, uma nova versão do papangu evidenciada pela cultura oral, a de que escravos em nosso município (ainda hoje existem remanescentes de quilombos) percebendo que, no Carnaval, mascarados tinham livre acesso a Casa Grande, atreviam-se adentrar nos lares dos seus senhores sem serem reconhecidos e almejando por eles serem servidos, pois se descobertos seriam julgados talvez sem complacências.
+		Foi então que surgiu o personagem mascarado, cheio de panos, roupas sobrepostas e máscaras que penetravam sobre suas cabeças sem deixar aparecer nenhum sinal da cor, sem a possibilidade de identificar olhos ou lábios, característicos da raça.
+		Meias nas mãos e nos pés e até saltos que lhes camuflassem a altura foram também artifícios utilizados. Eles usufruíam servidos com carnes e de fartas bebidas, chamando atenção de todos pelo apetite desmedido.
+		Hoje o nosso "papangu" é referencial da cultura de Bezerros (PE). Portanto, tornou-se um ser sem identidade, sem sexo, sem cor, sem estado civil, livre, o que faz dele um personagem inusitado.
+	</string>
+    
+    <!-- Programação -->
+    <string name="locais">Locais</string>
+	<string name="blocos">Blocos</string>
+	<string name="shows">Shows</string>
+	<string name="atracoes">Atrações</string>
 </resources>
