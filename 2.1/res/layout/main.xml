@@ -1,12 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:weightSum="1.0"
+    android:gravity="center_horizontal|bottom"
+    android:background="@drawable/bkg"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    android:orientation="vertical" >
+    android:layout_height="fill_parent">
 
-    <TextView
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/hello" />
+    <Button
+        android:id="@+id/buttonEvento"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight=".1"
+        android:layout_marginBottom="0dp"
+        android:text="@string/evento" />
 
+    <Button
+        android:id="@+id/buttonProgramacao"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight=".1"
+        android:layout_marginBottom="0dp"
+        android:text="@string/programacao" />
+    
+    <Button
+        android:id="@+id/buttonTurismo"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight=".1"
+        android:layout_marginBottom="0dp"
+        android:text="@string/turismo" />
+    
+    <Button
+        android:id="@+id/buttonInteratividade"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight=".1"
+        android:layout_marginBottom="0dp"
+        android:text="@string/interatividade" />
+    
 </LinearLayout>
