@@ -1,0 +1,1 @@
+Aplicativo para android do melhor Carnaval do interior de Pernambuco: a Folia do Papangu de Bezerros!
